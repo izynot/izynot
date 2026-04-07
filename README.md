@@ -1,7 +1,7 @@
 <h1 align="center">Heya</h1>
 
 ---
-![gif]([https://tenor.com/view/youmu-sway-happy-touhou-gif-20054100](https://tenor.com/view/youmu-sway-happy-touhou-gif-20054100))
+![gif]([[https://tenor.com/view/youmu-sway-happy-touhou-gif-20054100](https://tenor.com/view/youmu-sway-happy-touhou-gif-20054100)](https://tenor.com/bwi9o.gif))
 
 ## Me
 - I'm just a student that just love so many shit
