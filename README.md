@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://tenor.com/view/youmu-sway-happy-touhou-gif-20054100" width="300" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWEzZHNydmFvd3YxbGEzaWtqbm1iOXN1Y2JkMXpjcml1MDZlZW0yZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Uvn1ZpCJcVff8noVSF/giphy.gif" width="300" />
 </p>
 
 ## Me
@@ -12,13 +12,6 @@
 - I love MUSIC SO MUCH!!!!!!!!!!
 - And games
 - For sure.
-
----
-
-## 🚀 Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,php,laravel,js,python,mysql,git,github" />
-</p>
 
 ---
 
@@ -33,15 +26,3 @@
 
 ---
 
-## 🏆 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## Sooociaall
-<p align="left">
-  <a href="Only discord"</a> |
-     <a href="kamu_w"</a> |
-</p>
