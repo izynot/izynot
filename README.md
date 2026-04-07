@@ -1,7 +1,10 @@
 <h1 align="center">Heya</h1>
 
 ---
-<div class="tenor-gif-embed" data-postid="20054100" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/youmu-sway-happy-touhou-gif-20054100">Youmu Sway GIF</a>from <a href="https://tenor.com/search/youmu-gifs">Youmu GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
+</p>
 
 ## Me
 - I'm just a student that just love so many shit
