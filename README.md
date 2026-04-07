@@ -13,6 +13,8 @@
 - And games
 - For sure.
 
+Discord
+: kamu_w
 ---
 
 ## 📊 GitHub Stats
