@@ -2,9 +2,6 @@
 
 ---
 ![gif]([https://tenor.com/view/youmu-sway-happy-touhou-gif-20054100](https://tenor.com/view/youmu-sway-happy-touhou-gif-20054100))
-<p align="center">
-  <img src="[https://tenor.com/view/youmu-sway-happy-touhou-gif-20054100](https://tenor.com/view/youmu-sway-happy-touhou-gif-20054100)" width="300" />
-</p>
 
 ## Me
 - I'm just a student that just love so many shit
