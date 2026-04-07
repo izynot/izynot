@@ -13,6 +13,8 @@
 - And games
 - For sure.
 
+# I also code and animate stuffs so hmu if you wanna comms me 😉
+
 Discord
 : kamu_w
 ---
